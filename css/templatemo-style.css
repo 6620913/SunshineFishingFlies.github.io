@@ -387,11 +387,11 @@ https://templatemo.com/tm-516-known
   }
 
   .home-slider .item-second {
-    background-image: url(../images/Simage2.jpg);
+    background-image: url(../images/logo.jpg);
   }
 
   .home-slider .item-third {
-    background-image: url(../images/Simage3.jpg);
+    background-image: url(../images/logo.jpg);
   }
 
 
@@ -739,6 +739,7 @@ https://templatemo.com/tm-516-known
   -----------------------------------------*/
 
   footer {
+    align-self: center;
     background: #252020;
     padding: 120px 0;
   }
@@ -762,6 +763,7 @@ https://templatemo.com/tm-516-known
 
   footer address p {
     margin-bottom: 0;
+    align-self: center;
   }
 
   footer .social-icon {
