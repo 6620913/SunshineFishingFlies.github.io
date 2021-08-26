@@ -80,7 +80,7 @@ https://templatemo.com/tm-516-known
   }
 
   a:hover, a:active, a:focus {
-    color: #29ca8e;
+    color: #6ad2ee;
     outline: none;
   }
 
@@ -258,7 +258,7 @@ https://templatemo.com/tm-516-known
 
   .custom-navbar {
     background: #ffffff;
-    border-top: 5px solid #29ca8e;
+    border-top: 5px solid #63bae6;
     border-bottom: 0;
     -webkit-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
     -moz-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
@@ -285,7 +285,7 @@ https://templatemo.com/tm-516-known
   }
 
   .custom-navbar .navbar-nav.navbar-right li a .fa {
-    background: #29ca8e;
+    background: #74d5eb;
     border-radius: 100%;
     color: #ffffff;
     width: 30px;
@@ -309,12 +309,12 @@ https://templatemo.com/tm-516-known
   }
 
   .custom-navbar .nav li a:hover {
-    background-color: #29ca8e;
+    background-color: #76c6e9;
     color: #ffffff;
   }
 
   .custom-navbar .nav li.active > a {
-    background-color: #29ca8e;
+    background-color: #70c6eb;
     color: #ffffff;
   }
 
@@ -472,7 +472,8 @@ https://templatemo.com/tm-516-known
   }
 
   .team-image img {
-    width: 100%;
+    width: 300px;
+    height: 400px;
   }
 
   .team-thumb .social-icon {
@@ -521,8 +522,10 @@ https://templatemo.com/tm-516-known
     position: relative;
   }
 
-  .courses-image {
-    background: linear-gradient(to right, #202020, #101010);
+  .courses-image img {
+    
+    width: 300px;
+    height: 400px;
   }
 
   .courses-date {
